@@ -1,3 +1,1 @@
-# desafio_tinder
-
-A new Flutter project.
+# Desafio que foi criar uma tela estilo Tinder utilizando o Framework Flutter.
